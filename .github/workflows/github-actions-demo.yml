@@ -11,8 +11,8 @@ on:
       - reopened
       - synchronize
     branches:
-      - 'release/TECHBLOG-84'
-      - fukuyoka-patch-1
+      - 'release/TECHBLOG-**'
+      - main
 
 jobs:
   build:
